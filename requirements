@@ -1,8 +1,9 @@
 Sorimoa website requirement
 
 1. Manage member
+  - This database will manage a data not only for sorimoa member also for session who help us to do a concert.
   - Sign up & out functions
-  - Update information of member
+  - Update information of member 
   - This member database will be helpful to manage an address book of sorimoa
 
 2. Concert Information
