@@ -1,0 +1,31 @@
+Sorimoa website requirement
+
+1. Manage member
+  - Sign up & out functions
+  - Update information of member
+  - This member database will be helpful to manage an address book of sorimoa
+
+2. Concert Information
+  - Make this with independent table
+  - This database will contain information of song, session, place etc. -> so next executive branch can refer previous concerts
+  
+3. Board
+  - There will be several boards
+  - Notice, Free, (QNA), assembly songs 
+  
+4. Introduction page
+  - A page that introduce Sorimoa
+
+5. Upload song & video
+  - Upload song or video which are taken in assembly or concert
+  - Provide this song & video with format so that members can download.
+  
+6. Link SNS about sorimoa
+  - Make a link to sorimoa facebook, tumbler
+
+7. Account information
+  - Make a database which can trace and manage an account information
+
+8. Concert Feedback
+  - After a concert, concert feedback page will be activated, so people who could not attend to the appraisal 
+    also participate to feedback a concert. 
