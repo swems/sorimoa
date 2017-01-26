@@ -2,6 +2,11 @@ Sorimoa website requirement
 
 1. Manage member
   - This database will manage a data not only for sorimoa member also for session who help us to do a concert.
+    - each member will have their level. According to level, there will be some limitations to access some pages.
+      - Bronze: Sessions, or other people who are relate to sorimoa, but not a member.
+      - Silver: Sorimoa member, but not a member of executive branch
+      - Gold: A member of executive branch
+      - Master : Web developer, designer, president of YB&OB
   - Sign up & out functions
   - Update information of member 
   - This member database will be helpful to manage an address book of sorimoa
